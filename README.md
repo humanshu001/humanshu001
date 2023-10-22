@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I'm a Noobie
 
 
----
+<!-- ---
 
 ### Languages and Tools:
 <p>Frontend</p>
@@ -43,7 +43,7 @@
 ![GitHub](https://img.shields.io/badge/Github-black?style=flat-square)
 ![GitHub](https://img.shields.io/badge/VSCode-blue?style=flat-square)
 ![GitHub](https://img.shields.io/badge/Git-red?style=flat-square)
-
+ -->
 
 
 ---
@@ -102,10 +102,10 @@ me.jai_shri_ram_🙏()
 </p>
 
 ---
-
+<!-- 
 ### 📊 My Coding Stats
 <!--START_SECTION:waka-->
-```text
+<!-- ```text
 Completed my first coding streak of 11 days on 12 Oct!
 ```
 ```text
@@ -113,7 +113,7 @@ Completed my first coding streak of 11 days on 12 Oct!
 ```
 ```text
 21 Oct 2023: Preparing for Mid Semester Exams!
-```
+``` -->
 <!--END_SECTION:waka-->
 
----
+
