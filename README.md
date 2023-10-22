@@ -90,15 +90,15 @@ me.spread_love()
 ```
 ---
 ### 📊 My Github Stats
-<center>
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&layout=compact&hide_border=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&bg_color=060109&text_color=FFFFFF&title_color=c3222e&layout=compact&hide_border=true) 
 
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=humanshu001&background=0D1117&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=c322fe&ring=c322fe&hide_border=true) <br>
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=humanshu001&background=060109&currStreakLabel=3ce200&currStreakNum=000fff&sideNums=000fff&sideLabels=3ce200&dates=00ffff&fire=c3222e&ring=c3222e&hide_border=true) 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=humanshu001&include_all_commits=true&show_icons=true&count_private=true&show_owner=true&bg_color=0D1117&text_color=FFFFFF&icon_color=c322fe&title_color=FFFFFF&hide_border=true) <br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=humanshu001&include_all_commits=true&show_icons=true&count_private=true&show_owner=true&bg_color=060109&text_color=fff&icon_color=00fff&title_color=3ce200&hide_border=true)
 
-</center>
+</p>
 
 ---
 
