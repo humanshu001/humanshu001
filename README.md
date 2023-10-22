@@ -62,7 +62,7 @@
 ### 🌟 A little more about me...
 
 ```python
-from world import love
+from world import love and peace
 
 class HumanBeing:
 
@@ -76,17 +76,18 @@ class HumanBeing:
         self.email = "humanshujaglan@gmail.com"	
         self.tools = ["VSCode", "Git", "GitHub"]
         self.askMeAbout = ["web development"]
-        self.languages = ["Python", "HTML", "CSS", "JavaScript", "PHP"]
+        self.languages = ["Python", "HTML", "CSS", "JavaScript", "PHP","C","C++"]
         self.learning = ["PHP", "Laravel", "Python", "Django"]
         self.hobbies = ["Coding", "Reading", "Gaming"]
         self.funFact = "I'm a Noobie"
-        self.currentFocus = "Learning Python and exploring AI 🚀"
+        self.currentFocus = "Learning Linux and exploring Ethical Hacking 🚀"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 me = HumanBeing()
 me.spread_love()
+me.jai_shri_ram_🙏()
 ```
 ---
 ### 📊 My Github Stats
