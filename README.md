@@ -91,7 +91,9 @@ me.jai_shri_ram_🙏()
 ```
 ---
 ### 📊 My Github Stats
-<p align="center">
+
+
+<!-- <p align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&bg_color=060109&text_color=FFFFFF&title_color=c3222e&layout=compact&hide_border=true) 
 
@@ -99,6 +101,15 @@ me.jai_shri_ram_🙏()
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=humanshu001&include_all_commits=true&show_icons=true&count_private=true&show_owner=true&bg_color=060109&text_color=fff&icon_color=00fff&title_color=3ce200&hide_border=true)
 
+</p> -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&bg_color=060109&text_color=FFFFFF&title_color=c3222e&layout=compact&hide_border=true">
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=humanshu001&include_all_commits=true&show_icons=true&count_private=true&show_owner=true&bg_color=060109&text_color=fff&icon_color=00fff&title_color=3ce200&hide_border=true">
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=humanshu001&background=060109&currStreakLabel=3ce200&currStreakNum=000fff&sideNums=000fff&sideLabels=3ce200&dates=00ffff&fire=c3222e&ring=c3222e&hide_border=true">
 </p>
 
 ---
