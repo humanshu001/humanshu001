@@ -69,21 +69,28 @@ class HumanBeing:
     def __init__(self):
         self.name = "Humanshu Jaglan"
         self.education = "B.Tech in Computer Science"
-        self.university = "Geeta Institute of Law"
+        self.university = "Geeta University"
         self.age = 18
         self.country = "India"
         self.city = "Panipat"
         self.email = "humanshujaglan@gmail.com"	
         self.tools = ["VSCode", "Git", "GitHub"]
-        self.askMeAbout = ["web development"]
-        self.languages = ["Python", "HTML", "CSS", "JavaScript", "PHP","C","C++"]
-        self.learning = ["PHP", "Laravel", "Python", "Django"]
-        self.hobbies = ["Coding", "Reading", "Gaming"]
+        self.askMeAbout = ["full stack web development"]
+        self.skills_in_frontend = ["HTML", "CSS", "JS", "Reactjs","Angular"]
+        self.skills_in_backend = ["Django","PHP","Express"]
+        self.skills_in_database = ["MongoDB","MySQL"]
+        self.languages = ["C","C++","Python","PHP","JavaScript"]
+        self.learning = ["PHP", "Python", "Django"]
+        self.hobbies = ["Coding", "Reading", "Blog Writing"]
+		      self.identity = "Sanatani"
         self.funFact = "I'm a Noobie"
         self.currentFocus = "Learning Linux and exploring Ethical Hacking 🚀"
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+    def spread_love(self):
+        print("Thanks for dropping by the end, hope you liked my intro")
+        
+    def jai_shri_ram_🙏(self):
+		      print("Jai Shree Ram 🚩")
 
 me = HumanBeing()
 me.spread_love()
