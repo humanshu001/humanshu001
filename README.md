@@ -8,9 +8,9 @@
 
 
 ### I'm a Student, Developer, and Learner!
-- 🌱 I’m currently learning PHP, Laravel, and Python
+- 🌱 I’m currently learning PHP, Restful APIs, and Python
 - 👯 I’m looking to collaborate on any Open Source Project
-- 🤔 I’m looking for help with Python
+- 🤔 I’m looking for help with Devops
 - 💬 Ask me about anything
 - 📫 How to reach me: **Instagram,** **Twitter,** **Facebook,** **LinkedIn,** **Telegram,** **WhatsApp,** **Reddit,** **Quora,** **Stack Overflow,** **HackerRank**	
 - 😄 Pronouns: He/Him
