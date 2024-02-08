@@ -103,7 +103,7 @@ me.jai_shri_ram_🙏()
 
 </p> -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKaushikGoswami&show_icons=true&bg_color=060109&text_color=FFFFFF&title_color=c3222e&layout=compact&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humanshu001&show_icons=true&bg_color=060109&text_color=FFFFFF&title_color=c3222e&layout=compact&hide_border=true">
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=humanshu001&include_all_commits=true&show_icons=true&count_private=true&show_owner=true&bg_color=060109&text_color=fff&icon_color=00fff&title_color=3ce200&hide_border=true">
