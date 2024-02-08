@@ -82,7 +82,7 @@ class HumanBeing:
         self.languages = ["C","C++","Python","PHP","JavaScript"]
         self.learning = ["PHP", "Python", "Django"]
         self.hobbies = ["Coding", "Reading", "Blog Writing"]
-		      self.identity = "Sanatani"
+	self.identity = "Sanatani"
         self.funFact = "I'm a Noobie"
         self.currentFocus = "Learning Linux and exploring Ethical Hacking 🚀"
 
