@@ -90,7 +90,7 @@ class HumanBeing:
         print("Thanks for dropping by the end, hope you liked my intro")
         
     def jai_shri_ram_🙏(self):
-		      print("Jai Shree Ram 🚩")
+	print("Jai Shree Ram 🚩")
 
 me = HumanBeing()
 me.spread_love()
