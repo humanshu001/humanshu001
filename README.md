@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on any Open Source Project
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about anything
-- 📫 How to reach me: **Instagram,** **Twitter,** **Facebook,** **LinkedIn,** **Telegram,** **WhatsApp,** **Reddit,** **Quora,** **Stack Overflow,** **HackerRank**	
+- 📫 How to reach me: **Instagram,** **Twitter,** **Facebook,** **LinkedIn,** **Telegram,** **WhatsApp**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Noobie
 
