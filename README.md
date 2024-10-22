@@ -8,13 +8,12 @@
 
 
 ### I'm a Student, Developer, and Learner!
-- 🌱 I’m currently learning PHP, Restful APIs, and Python
+- 🌱 I’m currently learning Nextjs, WebRTC and Rust
 - 👯 I’m looking to collaborate on any Open Source Project
 - 🤔 I’m looking for help with Devops
-- 💬 Ask me about anything
+- 💬 Ask me about MERN, Programming and Angular
 - 📫 How to reach me: **Instagram,** **Twitter,** **Facebook,** **LinkedIn,** **Telegram,** **WhatsApp**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a Noobie
 
 
 <!-- ---
